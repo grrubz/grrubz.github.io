@@ -6,6 +6,6 @@
 </head>
 <body>
   <h1>🍔 Grubz'a Hoşgeldiniz!</h1>
-  <p>Burada kendi paylaşımlarımı yapacağım 🚀</p>
+  <p>Burada kendi paylaşımlarımı yapacağım 💥</p>
 </body>
 </html>
