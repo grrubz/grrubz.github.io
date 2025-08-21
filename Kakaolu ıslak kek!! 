@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Grubz - Tarifler</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background: #fffaf3; }
+    h1 { color: #d35400; }
+    h2 { color: #8e44ad; }
+    .tarif { border: 2px solid #dcdcdc; padding: 15px; margin-bottom: 20px; border-radius: 10px; background: #ffffff; }
+    ul { line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <h1>🍔 Grubz - Yemek Tarifleri</h1>
+  <p>Hoşgeldiniz! İşte ilk tarifimiz👩🏼‍🍳:</p>
+
+  <div class="tarif">
+    <h2>🍫 Kakaolu Islak Kek</h2>
+    <h3>Malzemeler:</h3>
+    <ul>
+      <li>3 yumurta</li>
+      <li>1 su bardağı şeker 🍬</li>
+      <li>1 su bardağı süt 🍼</li>
+      <li>1 su bardağı sıvı yağ</li>
+      <li>2 yemek kaşığı kakao</li>
+      <li>2 su bardağı un</li>
+      <li>1 paket kabartma tozu</li>
+      <li>1 paket vanilin</li>
+    </ul>
+
+    <h3>Yapılışı:</h3>
+    <ol>
+      <li>Yumurta ve şekeri çırp.</li>
+      <li>Süt, yağ ve kakaoyu ekle, karıştır.</li>
+      <li>Un, kabartma tozu ve vanilini ekleyip kek harcını hazırla.</li>
+      <li>Önceden ısıtılmış 180°C fırında 30-35 dk pişir🔥.</li>
+      <li>Sıcakken üzerine sütlü-kakaolu sos dök ve dinlendir💨.</li>
+    </ol>
+  </div>
+
+</body>
+</html>
